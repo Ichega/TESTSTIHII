@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TestStihii" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="backgroundColor">@color/white</item>
+    </style>
+
+    <style name="Theme.TestStihii" parent="Base.Theme.TestStihii" />
+</resources>
